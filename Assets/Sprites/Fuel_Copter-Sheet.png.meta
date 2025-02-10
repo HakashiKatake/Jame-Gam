@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fuel_Copter-Sheet_0: -3004713389193964773
+      Fuel_Copter-Sheet_1: -6033539293295333842
+      Fuel_Copter-Sheet_2: 3204178004810528136
+      Fuel_Copter-Sheet_3: 8799356962018394159
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
